@@ -1,4 +1,4 @@
-#  <div   align="center">⚡ Welcome to my Digital Space ⚡ </div>
+#  <div align="center">⚡ Welcome to Jose Tapia's Digital Space ⚡ </div>
 
 <!--Introduction with animated text-->
 <div align="center">
@@ -7,10 +7,10 @@
 
 <!--Status Section with modern badges-->
 <div align="center">
-  <a href="https://github.com/JoseTapia?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/JoseTapia?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/JoseTapia?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/JoseTapia?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/Josetapia23?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Josetapia23?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/Josetapia23?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Josetapia23?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="#">
     <img alt="Working" title="Currently Working" src="https://custom-icon-badges.demolab.com/badge/Currently-Working%20on%20Private%20Projects-purple.svg?style=for-the-badge&logo=rocket&logoColor=white"/></a>
 </div>
@@ -143,46 +143,23 @@
   <h2>📊 GitHub Statistics</h2>
 </div>
 
-<!-- Enhanced Stats Layout -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseTapia&hide_border=true&layout=compact&theme=radical&hide=HTML,CSS" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=JoseTapia&hide_border=true&count_private=true&theme=radical&show_icons=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Josetapia23&hide_border=true&layout=compact&theme=radical&hide=HTML,CSS" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Josetapia23&hide_border=true&count_private=true&theme=radical&show_icons=true" height="150" alt="stats graph"  />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=JoseTapia&theme=radical&hide_border=true" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Josetapia23&theme=radical&hide_border=true" height="150" alt="streak graph"  />
 </div>
 
-<!-- Trophy Section with enhanced styling -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JoseTapia&theme=radical&no-frame=true&no-bg=true&row=2&column=3&margin-w=15&margin-h=15"/>
-</div>
-
-<!-- Contribution Details with modern theme -->
+<!-- Contribution Details -->
 <div align="center">
   <h2>🌟 Contribution Insights</h2>
 </div>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoseTapia&theme=radical" height="180em" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoseTapia&theme=radical" height="180em" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoseTapia&theme=radical" height="180em" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoseTapia&theme=radical&utcOffset=-5" height="180em" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoseTapia&theme=radical" height="180em" />
-</div>
-
-<!-- Snake Animation with enhanced container -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JoseTapia/JoseTapia/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/JoseTapia/JoseTapia/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://github.com/JoseTapia/JoseTapia/blob/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
-
-<!-- Profile Views Counter with style -->
-<div align="center">
-  <img src="https://moe-counter.glitch.me/get/@JoseTapia?theme=rule34" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Josetapia23&theme=radical" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Josetapia23&theme=radical" height="180em" />
 </div>
 
 <!-- Footer -->
