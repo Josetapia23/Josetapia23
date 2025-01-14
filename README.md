@@ -1,4 +1,4 @@
-#  <div align="center">⚡ Welcome to Jose Tapia's Digital Space ⚡ </div>
+#  <div   align="center">⚡ Welcome to my Digital Space ⚡ </div>
 
 <!--Introduction with animated text-->
 <div align="center">
@@ -143,6 +143,7 @@
   <h2>📊 GitHub Statistics</h2>
 </div>
 
+<!-- Enhanced Stats Layout -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Josetapia23&hide_border=true&layout=compact&theme=radical&hide=HTML,CSS" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=Josetapia23&hide_border=true&count_private=true&theme=radical&show_icons=true" height="150" alt="stats graph"  />
@@ -152,7 +153,12 @@
   <img src="https://streak-stats.demolab.com?user=Josetapia23&theme=radical&hide_border=true" height="150" alt="streak graph"  />
 </div>
 
-<!-- Contribution Details -->
+<!-- Trophy Section with enhanced styling -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Josetapia23&theme=radical&no-frame=true&no-bg=true&row=2&column=3&margin-w=15&margin-h=15"/>
+</div>
+
+<!-- Contribution Details with modern theme -->
 <div align="center">
   <h2>🌟 Contribution Insights</h2>
 </div>
@@ -160,6 +166,23 @@
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Josetapia23&theme=radical" height="180em" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Josetapia23&theme=radical" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Josetapia23&theme=radical" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Josetapia23&theme=radical&utcOffset=-5" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Josetapia23&theme=radical" height="180em" />
+</div>
+
+<!-- Snake Animation with enhanced container -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Josetapia23/Josetapia23/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Josetapia23/Josetapia23/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/Josetapia23/Josetapia23/blob/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
+<!-- Profile Views Counter with style -->
+<div align="center">
+  <img src="https://moe-counter.glitch.me/get/@Josetapia23?theme=rule34" />
 </div>
 
 <!-- Footer -->
